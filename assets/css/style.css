@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  font-family: Helvetica, sans-serif;
+  color: white;
+}
+
+.container {
+  text-align: left;
+
+}
+
+#currentWord {
+  letter-spacing: 12px;
+}
